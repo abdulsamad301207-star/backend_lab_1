@@ -6,7 +6,7 @@
 - **Registration Number:** 252U1R8045
 - **Section:** CSE(QE)-2B - 204
 
-**Deployed link:** https://backend-development-fundamentals-62ec.onrender.com
+**Deployed link:** https://backend-lab-1-f90b.onrender.com
 
 ## Objective
 
@@ -64,7 +64,8 @@ node app.js
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](<img width="1917" height="1013" alt="image" src="https://github.com/user-attachments/assets/590f1c42-d05a-43f0-a605-1018aaf3d2b3" />
+)
 
 ### About Page
 
